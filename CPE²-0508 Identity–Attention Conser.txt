@@ -1,0 +1,60 @@
+CPE²-0508: Identity–Attention Conservation
+Equation:
+∂t∂(I⋅wA​)​+∇⋅JIw​=0
+Interpretation:
+In closed systems, identity and attention form a conserved current. Focusing attention on self (w_A↑) stabilizes identity (I↑); outward focus requires identity reinforcement to avoid fragmentation.
+Anchor: Noether’s theorem (U(1) symmetry in attention fields), Buddhist mindfulness physiology.
+CPE²-0705: Planetary Feedback–Ecological Damping
+Equation:
+dtdDe​​=−δ⋅Af(p)​+ζ⋅∇2Ch​
+Interpretation:
+Human feedback (e.g., policy, restoration) damps ecological disorder (D_e), but only if spatially synchronized (∇²C_h). Desynchronized human action increases ecological noise.
+Anchor: Planetary boundaries theory, coupled human-natural systems (Liu et al., 2007).
+CPE²-0809: Mass–Evolution Coupling
+Equation:
+dtdm​=ν⋅(dtdE​⋅ρr​)
+Interpretation:
+Evolving systems gain effective mass as they bind more resonance (ρ_r↑). Successful adaptations “weigh more” in the fitness landscape—explaining evolutionary inertia.
+Anchor: Fisher’s fundamental theorem, morphological complexity in evolution.
+CPE²-0907: Force–Trajectory Commutation
+Equation:
+[Fvec​,T]=iℏ⋅∂t∂∇R​
+Interpretation:
+Forces and trajectories don’t commute—applying force changes the possible paths. Strategic pivots under pressure follow different logics than calm-course correction.
+Anchor: Hamiltonian mechanics, strategic flexibility theory (Eisenhardt & Martin, 2000).
+CPE²-1005: Gravity–Integration Field Equation
+Equation:
+∇2Vh​=4πG⋅(ρr​+ξ⋅I)
+Interpretation:
+Gravity isn’t just from mass-density (ρ_r)—it’s also sourced by integration (I). Coherent structures (e.g., galaxies, corporations, cultures) warp spacetime more than their mass alone suggests.
+Anchor: MOND anomalies, social “gravity” in network theory.
+CPE²-1103: Time–Contradiction Dilation
+Equation:
+dtclock​dtsubj​​=1+κ⋅∣ε∣1​
+Interpretation:
+High contradiction (ε) compresses subjective time—crises feel like “fast-forward.” Low-ε states (flow, coherence) expand time.
+Anchor: Time perception under stress (Eagleman), flow state neurology.
+CPE²-1209: Energy–Trajectory Efficiency
+Equation:
+ηE​=Eeff​∣T∣​∝directional entropy1​
+Interpretation:
+Energy efficiency scales with trajectory clarity. Wavering trajectories waste energy; coherent direction maximizes output per unit energy.
+Anchor: Thermodynamics of computation, locomotion efficiency in biology.
+CPE²-1307: Information–Identity Encoding
+Equation:
+Iw​=log(I0​I​)⋅Hcore​
+Interpretation:
+Identity (I) encodes information (I_w)—the more stable the self, the more meaning it can hold. Trauma reduces I, causing information loss (dissociation).
+Anchor: Narrative identity theory (McAdams), memory consolidation in PTSD.
+CPE²-1406: Attention–Evolution Coupling
+Equation:
+dtdE​=θ⋅wA​⋅Φ
+Interpretation:
+Focused attention (w_A) on evolvable systems (Φ) accelerates adaptation. Ignored systems stagnate—even if objectively “fit.”
+Anchor: Selective breeding, innovation spotlight effect (Merton, 1968).
+CPE²-1319: Wave–Integration Resonance
+Equation:
+∇2Iw​+λ2Iw​=μ⋅I
+Interpretation:
+Integrated systems support standing information waves—enabling stable, high-bandwidth encoding (e.g., language, DNA, culture). Fragmented systems only support decaying waves.
+Anchor: Wave equations in confined media, linguistic stability in cohesive societies.
