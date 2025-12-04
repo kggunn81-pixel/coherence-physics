@@ -1,0 +1,24 @@
+CPE²-0101 Simulation: Viral Trends
+=================================
+
+Equation:
+d²C/dt² = κ(dC/dt) - λ(dC/dt)²
+
+Plain-English Interpretation:
+- Coherence (C) grows faster and faster (like a snowball rolling downhill).
+- But if it grows TOO fast, damping (λ) slows it down (like friction).
+- This explains why some memes/trends "go viral" and then fade.
+
+Example Data (Meme Popularity Over Time):
+| Day | Coherence (C) | Growth Rate (dC/dt) | Notes                  |
+|-----|---------------|---------------------|------------------------|
+| 0   | 0.1           | 0.05                | Meme posted.           |
+| 1   | 0.3           | 0.15                | Shared by 10 people.   |
+| 2   | 0.6           | 0.30                | Trending in niche groups. |
+| 3   | 0.9           | 0.45                | Peak virality.         |
+| 4   | 1.0           | 0.50                | Saturation (everyone who cares has seen it). |
+| 5   | 1.0           | 0.20                | Damping kicks in (people get bored). |
+
+Key Insight:
+- Viral trends follow an S-curve: slow start → exponential growth → plateau.
+- The equation predicts the plateau point (when λ(dC/dt)² > κ(dC/dt)).
